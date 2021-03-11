@@ -10,7 +10,7 @@ source:
   sha256: 2c46ac8db827d34e4fa9ccc0577e7f0b0d84f16ffe112351bd4f1ec2eb12d73f
 
 build:
-  number: 0
+  number: 1
   noarch: python
   entry_points:
     - roman=roman:main
@@ -34,7 +34,7 @@ test:
 
 about:
   home: https://github.com/zopefoundation/roman
-  license: ZPL-2.1
+  license: Python-2.0`
   license_file: LICENSE.txt
   summary: 'Integer to Roman numerals converter'
   description: |
