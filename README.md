@@ -3,7 +3,7 @@ About roman
 
 Home: https://github.com/zopefoundation/roman
 
-Package license: ZPL-2.1
+Package license: Python-2.0`
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/roman-feedstock/blob/master/LICENSE.txt)
 
